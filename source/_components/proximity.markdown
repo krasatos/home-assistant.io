@@ -41,7 +41,7 @@ To enable this component in your installation, add the following to your `config
 proximity:
   home: 
     ignored_zones:
-      - twork
+      - work
     devices:
       - device_tracker.car1
     tolerance: 50
